@@ -96,11 +96,7 @@ PlayerSettings:
   metroEnableLowLatencyPresentationAPI: 0
   xboxOneDisableKinectGpuReservation: 0
   virtualRealitySupported: 0
-<<<<<<< HEAD
-  productGUID: 37f55496b92149f4783314ad250b9f7f
-=======
-  productGUID: 17a84ed14944eb44288fae1e5c4353b3
->>>>>>> master
+  productGUID: cf697340b7a8a1c42b65e39d7946655b
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 9
   AndroidPreferredInstallLocation: 1
@@ -414,9 +410,7 @@ PlayerSettings:
   XboxOneAllowedProductIds: []
   XboxOnePersistentLocalStorageSize: 0
   intPropertyNames:
-  - Standalone::ScriptingBackend
   - WebPlayer::ScriptingBackend
-  Standalone::ScriptingBackend: 0
   WebPlayer::ScriptingBackend: 0
   boolPropertyNames:
   - XboxOne::enus
