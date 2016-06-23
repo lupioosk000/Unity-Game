@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Interact Canvas
+  - Item Database
+  - Inventory
   layers:
   - Default
   - TransparentFX
